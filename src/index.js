@@ -1,4 +1,4 @@
-import _ form 'lodash';
+import _ f
 
 function component() {
     var element = document.createElement('div');
